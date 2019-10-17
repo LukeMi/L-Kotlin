@@ -1,27 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a843c845-9ba7-4c7d-9e96-624b7e82fa24" name="Default Changelist" comment="" />
+    <list default="true" id="a843c845-9ba7-4c7d-9e96-624b7e82fa24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/BaseDataType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/ClassCheck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/ConditionalExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/NullCheck.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/Rang.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/Recycle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/Variable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/L-Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/L-Kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/L-Kotlin/META-INF/L-Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/L-Kotlin/META-INF/L-Kotlin.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/L-Kotlin/com/jeferry/kotlin/toturial/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/L-Kotlin/com/jeferry/kotlin/toturial/HelloWorldKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/HelloWorld.kt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1Rp1ddo2h45aRN5z5UvRqFu4uKw" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -35,28 +64,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.jeferry.kotlin.toturial.HelloWorldKt">
-    <configuration name="com.jeferry.kotlin.home.HomeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="home" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.jeferry.kotlin.home.HomeKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.jeferry.kotlin.toturial.HelloWorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.jeferry.kotlin.toturial.BaseDataTypeKt">
+    <configuration name="jeferry.kotlin.toturial.BaseDataTypeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="L-Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.jeferry.kotlin.toturial.HelloWorldKt" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.BaseDataTypeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jeferry.kotlin.toturial.ConditionalExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="L-Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.ConditionalExpressionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jeferry.kotlin.toturial.NullCheckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="L-Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.NullCheckKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jeferry.kotlin.toturial.RangKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="L-Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.RangKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jeferry.kotlin.toturial.RecycleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="L-Kotlin" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.RecycleKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,18 +132,60 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.jeferry.kotlin.toturial.HelloWorldKt" />
-        <item itemvalue="Kotlin.com.jeferry.kotlin.home.HomeKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.BaseDataTypeKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.RangKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.RecycleKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.NullCheckKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.ConditionalExpressionKt" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a843c845-9ba7-4c7d-9e96-624b7e82fa24" name="Default Changelist" comment="" />
+      <created>1571033965957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571033965957</updated>
+      <workItem from="1571033967083" duration="362000" />
+      <workItem from="1571106033486" duration="1306000" />
+      <workItem from="1571130396433" duration="11105000" />
+      <workItem from="1571225464236" duration="5952000" />
+      <workItem from="1571303699590" duration="1448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="kotlin-line">
           <url>file://$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/HelloWorld.kt</url>
-          <line>4</line>
+          <line>2</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/Rang.kt</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
