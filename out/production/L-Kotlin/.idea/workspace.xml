@@ -2,20 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a843c845-9ba7-4c7d-9e96-624b7e82fa24" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/BaseDataType.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/ClassCheck.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/ConditionalExpression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/NullCheck.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/Rang.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/Recycle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/Variable.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/class/Kotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/class/Test.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/data/Array.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/data/Boo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/data/Char.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/data/Null.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/data/Number.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/data/String.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/data/tuple.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/operater/IsOperate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/operater/Transform.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/L-Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/L-Kotlin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/L-Kotlin/META-INF/L-Kotlin.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/L-Kotlin/META-INF/L-Kotlin.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/L-Kotlin/com/jeferry/kotlin/toturial/HelloWorldKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/L-Kotlin/com/jeferry/kotlin/toturial/HelloWorldKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/HelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/HelloWorld.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/BaseDataType.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/ClassCheck.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/ConditionalExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/operater/ConditionalExpression.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +54,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/operater" />
+      <recent name="$PROJECT_DIR$/src/com/jeferry/kotlin/toturial/data" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -64,67 +74,67 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.jeferry.kotlin.toturial.BaseDataTypeKt">
-    <configuration name="jeferry.kotlin.toturial.BaseDataTypeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager">
+    <configuration name="jeferry.kotlin.toturial.data.ArrayKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="L-Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.BaseDataTypeKt" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.data.ArrayKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jeferry.kotlin.toturial.ConditionalExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="jeferry.kotlin.toturial.data.BooKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="L-Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.ConditionalExpressionKt" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.data.BooKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jeferry.kotlin.toturial.NullCheckKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="jeferry.kotlin.toturial.data.NullKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="L-Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.NullCheckKt" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.data.NullKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jeferry.kotlin.toturial.RangKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="jeferry.kotlin.toturial.operater.IsOperateKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="L-Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.RangKt" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.operater.IsOperateKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="jeferry.kotlin.toturial.RecycleKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="jeferry.kotlin.toturial.operater.TransformKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="L-Kotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.RecycleKt" />
+      <option name="MAIN_CLASS_NAME" value="jeferry.kotlin.toturial.operater.TransformKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.jeferry.kotlin.toturial.BaseDataTypeKt" />
-        <item itemvalue="Kotlin.jeferry.kotlin.toturial.RangKt" />
-        <item itemvalue="Kotlin.jeferry.kotlin.toturial.RecycleKt" />
-        <item itemvalue="Kotlin.jeferry.kotlin.toturial.NullCheckKt" />
-        <item itemvalue="Kotlin.jeferry.kotlin.toturial.ConditionalExpressionKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.operater.TransformKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.operater.IsOperateKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.data.ArrayKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.data.NullKt" />
+        <item itemvalue="Kotlin.jeferry.kotlin.toturial.data.BooKt" />
       </list>
     </recent_temporary>
   </component>
@@ -154,8 +164,21 @@
       <workItem from="1571106033486" duration="1306000" />
       <workItem from="1571130396433" duration="11105000" />
       <workItem from="1571225464236" duration="5952000" />
-      <workItem from="1571303699590" duration="1448000" />
+      <workItem from="1571303699590" duration="13248000" />
+      <workItem from="1571389390177" duration="6985000" />
+      <workItem from="1571466283863" duration="245000" />
+      <workItem from="1571619915236" duration="1649000" />
+      <workItem from="1572003232303" duration="3880000" />
+      <workItem from="1572141006456" duration="9570000" />
     </task>
+    <task id="LOCAL-00001" summary="操作符使用">
+      <created>1571316983830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571316983830</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +196,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="操作符使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="操作符使用" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

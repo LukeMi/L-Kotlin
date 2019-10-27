@@ -1,4 +1,4 @@
-package jeferry.kotlin.toturial
+package jeferry.kotlin.toturial.operater
 
 /**
  * 条件表达式
